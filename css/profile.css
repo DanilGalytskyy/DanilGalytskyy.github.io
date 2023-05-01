@@ -7,7 +7,7 @@ body {
     -moz-osx-font-smoothing: grayscale;      
   }
   .container button:hover,.container button:active,.container button:focus {
-    background: #dbd8d8;
+    background: #ffffff;
   }
 
   @media (max-width: 576px) {
